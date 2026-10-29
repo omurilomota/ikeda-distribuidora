@@ -18,6 +18,8 @@ Aplicação demonstrativa B2B em português, construída com Next.js App Router,
 
 ## Demonstração
 
+[**Ver demonstração**](https://ikeda-distribuidora.vercel.app) · Next.js 16 (App Router) · React 19 · TypeScript · PostgreSQL + Drizzle ORM · Tailwind CSS 4
+
 O portal abre na conta demonstrativa Mercadinho São João. Para trocar, clique no avatar do cabeçalho e em **Acessar outra conta**. Senha das três contas: `ikeda2026`.
 
 | E-mail fictício | Perfil |
