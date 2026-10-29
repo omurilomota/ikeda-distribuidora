@@ -11,7 +11,7 @@ const customer: Customer = {
   name: "Mercadinho São José",
   legalName: "Mercadinho São José Ltda",
   cnpj: "12.345.678/0001-90",
-  email: "contato@mercadinho.com.br",
+  email: "contato@exemplo.com",
   phone: "(18) 99999-0000",
   address: "Rua A, 10 — Junqueirópolis/SP",
   priceTable: "Atacado",
